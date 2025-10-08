@@ -1,0 +1,1 @@
+echo "# latihan-git" >> README.md
